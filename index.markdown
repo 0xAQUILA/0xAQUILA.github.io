@@ -1,6 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
+# Welcome!
+
+The Sharon High School cybersecurity club is dedicated to fostering an interest in cybersecurity and helping students develop their skills. We focus on topics like ethical hacking, network security, and digital privacy.
+
+## Upcoming Events
+
+- **Monthly Meetings:** Every third Thursday of the month
+- **Cybersecurity Workshops:** Coming soon!
+
+## Join Us
+
+Interested in joining the club or learning more? [Contact us](mailto:0xaquila.sharonschools@gmail.com).
